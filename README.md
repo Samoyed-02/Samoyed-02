@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm This is Junghyeon Yoon, a developer</h1>
-<h3 align="center">Backend Developer | Information Security | Building Reliable Systems | Learning Kotlin🚀</h3>
+<h1 align="center">Hi 👋, I'm Junghyeon Yoon</h1>
+<h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin Learner</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
