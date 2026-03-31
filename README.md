@@ -1,7 +1,6 @@
 <h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin Learner</h3>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-02&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tingtingtangtang1)](https://solved.ac/tingtingtangtang1)
 
 
