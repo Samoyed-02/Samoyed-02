@@ -4,6 +4,7 @@
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tingtingtangtang1)](https://solved.ac/tingtingtangtang1)
+
 [![Samoyed-02's GitHub stats](https://github-readme-stats-ljrhzrq6h-samoyed1.vercel.app/api?username=Samoyed-02)](https://github.com/Samoyed-02)
 
 <h3 align="center">Connect with me</h3>
