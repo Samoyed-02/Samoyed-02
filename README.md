@@ -1,5 +1,5 @@
 <h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
-<h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin Learner</h3>
+<h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tingtingtangtang1)](https://solved.ac/tingtingtangtang1)
 
