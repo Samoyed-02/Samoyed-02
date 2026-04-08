@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=header" />
 <h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner</h3>
 
@@ -35,4 +35,4 @@
   <br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=footer" />
