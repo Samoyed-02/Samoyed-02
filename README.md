@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tingtingtangtang1)](https://solved.ac/tingtingtangtang1)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-02)](https://github.com/anuraghazra/github-readme-stats)
+[![Samoyed-02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-02)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -26,6 +28,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
