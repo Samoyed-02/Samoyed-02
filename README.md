@@ -3,9 +3,6 @@
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner</h3>
 
 <p align="center">
-  <a href="https://solved.ac/tingtingtangtang1">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tingtingtangtang1" />
-  </a>
   <a href="https://github.com/Samoyed-02">
    <img src="https://github-readme-stats-eta-eight-82.vercel.app/api?username=Samoyed-02&show_icons=true" />  </a>
 </p>
