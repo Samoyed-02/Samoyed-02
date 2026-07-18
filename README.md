@@ -2,10 +2,10 @@
 <h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
 <h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Samoyed-02">
    <img src="https://github-readme-stats-eta-eight-82.vercel.app/api?username=Samoyed-02&show_icons=true" />  </a>
-</p>
+</p> -->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
