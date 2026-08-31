@@ -20,6 +20,10 @@
 <div align=center><h1> 💡 Available Skills
 
 [![Available Skills](https://skillicons.dev/icons?i=django,docker,figma,git,github,githubactions,gradle,go,idea,java,kotlin,linkedin,mysql,nginx,notion,obsidian,pycharm,redis,py,spring,sqlite,vscode,visualstudio,windows&theme=dark)](https://skillicons.dev)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samoyed-02&" alt="samoyed-02" /></p>
 </div>
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=footer" />
