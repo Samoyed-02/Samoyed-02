@@ -6,7 +6,7 @@
 
 [![Resume](https://img.shields.io/badge/RESUME-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/여기에_이력서_ID)
 [![Tech Blog](https://img.shields.io/badge/TECH%20BLOG-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://samoyed-02.github.io)
-[![Contact](https://img.shields.io/badge/CONTACT-문의%20폼-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.gle/여기에_문의폼_ID)
+[![Contact](https://img.shields.io/badge/CONTACT-문의%20폼-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSe1T1azEFz7amKQgpDanZI_sCQxfrlsb_DAM3lypgMBOYLhjA/viewform)
 
 ## Selected Impact
 
