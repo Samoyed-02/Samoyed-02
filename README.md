@@ -44,11 +44,20 @@ Java/Spring을 중심으로 개발하고, Kotlin 전환과 Go·Python 서비스 
 - 검증: 복합 표 50건을 원본과 1:1 수기 대조, 매핑 정합성 100%
 - 설계: 파싱 계층과 DB 엔티티 계층 분리, 군별 가산점 규칙을 인터페이스로 추상화
 
-**Guard-Up | 계약서 가이드 백엔드** (Python, FastAPI, PostGIS, Chroma)
-한이음 ICT 공모전. OCR, 비식별화, RAG, 공공 API 파이프라인 구성 담당 [ ]
+**Guard-Up | 계약서 가이드 백엔드** (Python, FastAPI, Redis, ChromaDB)
+한이음 ICT 공모전. OCR·비식별화·RAG 파이프라인 및 공공 API 연동 담당 (2026.04~10).
+– 구현: CLOVA OCR 텍스트 추출, KLUE-NER + 정규표현식 기반 개인정보 비식별화, Redis 세션 격리
+– 문제: 계약서 이미지에서 추출한 개인정보가 외부 API(GPT-4o)로 전송될 경우 정보 유출 위험
+– 대응: 로컬에서 PII 토큰 치환(PERSON_001) 후 마스킹 텍스트만 외부 전송, 분석 완료 후 매핑테이블 즉시 파기
+– RAG: nlpai-lab/KURE-v1 임베딩 + ChromaDB로 주택임대차보호법·판례 34건 벡터화, 유사 조항 검색
+– 검증: 서버 startup 시 법률 데이터 자동 임베딩, Redis 세션 연결 및 헬스체크 200 응답 확인
 
-**남산뚜 | 남한산성 GPS 스토리텔링** (FastAPI, PostgreSQL/PostGIS, Redis)
-한국관광데이터 공모전, 4인 팀에서 백엔드 담당 [ ] (수치나 결과가 있다면 추가)
+남산뚜 | 걷다, 남한산성 GPS 도보 관광 서비스 (Java, Spring Boot, MySQL, Redis)
+2026 관광데이터 활용 공모전 · 4인 팀 백엔드 담당 (2026.04~09).
+- 담당: Story Mode, Nearby 배치 ETL, Offline Sync, 카카오 인증, Railway 배포
+- 문제: 주변 정보를 요청마다 TourAPI에서 가져와 호출 한도에 걸리고 응답이 느림
+- 대응: 스케줄 배치로 DB에 적재하고, 조회 API는 DB만 읽도록 변경
+- 결과: 카카오 인증 가짜 코드 우회 취약점을 재현해 수정하고, 운영 로그인 정상 동작 확인
 
 도파민 보물섬 | 캠퍼스 보물찾기 웹 서비스 (FastAPI, SQLite, React, Vite)
 6일 MVP 스프린트, 풀스택 단독 개발 (2026.04)
