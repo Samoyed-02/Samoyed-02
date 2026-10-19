@@ -4,8 +4,9 @@
 측정 가능한 지표와 설계 근거를 바탕으로 문제를 해결하는 백엔드 개발자입니다.
 서버 개발을 기반으로 AI 기능을 실제 서비스에 붙여 보며, 장기적으로는 플랫폼 엔지니어로 성장하고 싶습니다.
 
-- Tech Blog: https://samoyed-02.github.io
-- Email: dbswjdgus888@naver.com
+[![Resume](https://img.shields.io/badge/RESUME-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/여기에_이력서_ID)
+[![Tech Blog](https://img.shields.io/badge/TECH%20BLOG-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://samoyed-02.github.io)
+[![Contact](https://img.shields.io/badge/CONTACT-문의%20폼-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.gle/여기에_문의폼_ID)
 
 ## Selected Impact
 
