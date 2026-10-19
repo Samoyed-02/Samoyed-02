@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=150&section=header" />
 
 # Backend Developer, Samoyed
 측정 가능한 지표와 설계 근거를 바탕으로 문제를 해결하는 백엔드 개발자입니다.
@@ -94,4 +94,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=150&section=footer" />
