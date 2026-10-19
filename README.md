@@ -1,13 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3ED4BE&height=150&section=header" />
-<h1 align="center">🇰🇷 I'm Junghyeon Yoon</h1>
-<h3 align="center">Building Secure & Reliable Systems | Backend Dev & InfoSec | Kotlin & Go Learner</h3>
-
-
 
 # Backend Developer, Samoyed
-
-병목을 수치로 확인하고, 설계 근거를 문서로 남기는 백엔드 개발자입니다.
-Java/Spring을 중심으로 개발하고, Kotlin 전환과 Go·Python 서비스 개발도 진행하고 있어요.
+측정 가능한 지표와 설계 근거를 바탕으로 문제를 해결하는 백엔드 개발자입니다.
+지금은 서버 개발에 집중하고 있고, 장기적으로는 AI 엔지니어로 성장하는 것을 목표로 하고 있어요.
 
 - Tech Blog: https://samoyed-02.github.io
 - Email: dbswjdgus888@naver.com
