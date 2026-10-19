@@ -38,6 +38,7 @@ Java/Spring을 중심으로 개발하고, Kotlin 전환과 Go·Python 서비스 
 
 **Enlist-Korea | 공공데이터 기반 군 입영 지원 플랫폼** (Java 17, Spring Boot, MySQL, Jsoup)
 4인 프로젝트, 팀 리더 겸 백엔드 단독 담당 (2025.03~11).
+- 백엔드 코드: https://github.com/Enlist-Korea/Enlist-korea/tree/feature/back/main-service
 - 문제: 고정 인덱스 파싱이 병합 셀(rowspan)에서 깨져 예외율 30~40%
 - 대응: 가상 2차원 매트릭스 버퍼로 병합 셀 복원, 헤더 텍스트 기반 동적 매핑
 - 검증: 복합 표 50건을 원본과 1:1 수기 대조, 매핑 정합성 100%
@@ -49,8 +50,12 @@ Java/Spring을 중심으로 개발하고, Kotlin 전환과 Go·Python 서비스 
 **남산뚜 | 남한산성 GPS 스토리텔링** (FastAPI, PostgreSQL/PostGIS, Redis)
 한국관광데이터 공모전, 4인 팀에서 백엔드 담당 [ ] (수치나 결과가 있다면 추가)
 
-**도파민 보물섬 | 캠퍼스 보물찾기 웹 서비스** (FastAPI, SQLite, React)
-6일 MVP 스프린트, 백엔드 메인 담당. 보물 숨기기·코드 검증·중복 획득 방지 API 구현 [ ]
+도파민 보물섬 | 캠퍼스 보물찾기 웹 서비스 (FastAPI, SQLite, React, Vite)
+6일 MVP 스프린트, 풀스택 단독 개발 (2026.04)
+- 백엔드 코드: https://github.com/Samoyed-02/dopamine-treasure-backend
+- 백엔드: 장소 조회, 코드 검증, 보물 숨기기, 응원 메시지 등록 API, 중복 획득 방지 로직, 관리자 승인·통계 API 구현
+- 프론트: 기존 800줄 이상의 프론트 코드를 Vite + React 구조로 재구성하고 화면 구현
+- 운영: 기한 2일 초과로 4/22 배포, 실제 학생 대상 이벤트 진행 (보상 기프티콘 10개 지급)
 
 ## Tech Stack
 
