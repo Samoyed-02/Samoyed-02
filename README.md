@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=150&section=header" />
 
-# Backend Developer, Samoyed
+# Backend Developer, Yoon Jung-Hyeon.
 측정 가능한 지표와 설계 근거를 바탕으로 문제를 해결하는 백엔드 개발자입니다.
 서버 개발을 기반으로 AI 기능을 실제 서비스에 붙여 보며, 장기적으로는 플랫폼 엔지니어로 성장하고 싶습니다.
 
