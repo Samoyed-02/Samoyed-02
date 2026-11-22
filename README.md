@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=150&section=header" />
 
 # Backend & AI Service Developer, Yoon Jung-Hyeon
-AI 기능을 실제 서비스에 연결하고, 측정과 검증으로 개선하는 개발자입니다.
-LLM 도구 호출·기억 관리, RAG 검색 파이프라인, AI 분석 서버 연동을 경험했습니다.
-비용과 처리 성능뿐 아니라 응답 신뢰성, 실패 처리와 보안상 한계도 함께 확인합니다.
+AI 기능을 실제 서비스에 연결하고, 측정과 검증으로 개선하는 개발자입니다.<br>
+LLM 도구 호출·기억 관리, RAG 검색 파이프라인, AI 분석 서버 연동을 경험했습니다.<br>
+비용과 처리 성능뿐 아니라 응답 신뢰성, 실패 처리와 보안상 한계도 함께 확인합니다.<br>
 
 [![Resume](https://img.shields.io/badge/RESUME-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/여기에_이력서_ID)
 [![Tech Blog](https://img.shields.io/badge/TECH%20BLOG-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://samoyed-02.github.io)
