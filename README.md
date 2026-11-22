@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=150&section=header" />
 
-# Backend Developer, Yoon Jung-Hyeon.
-측정 가능한 지표와 설계 근거를 바탕으로 문제를 해결하는 백엔드 개발자입니다.
-서버 개발을 기반으로 AI 기능을 실제 서비스에 붙여 보며, 장기적으로는 플랫폼 엔지니어로 성장하고 싶습니다.
+# Backend & AI Service Developer, Yoon Jung-Hyeon
+AI 기능을 실제 서비스에 연결하고, 측정과 검증으로 개선하는 개발자입니다.
+LLM 도구 호출·기억 관리, RAG 검색 파이프라인, AI 분석 서버 연동을 경험했습니다.
+비용과 처리 성능뿐 아니라 응답 신뢰성, 실패 처리와 보안상 한계도 함께 확인합니다.
 
 [![Resume](https://img.shields.io/badge/RESUME-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/여기에_이력서_ID)
 [![Tech Blog](https://img.shields.io/badge/TECH%20BLOG-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://samoyed-02.github.io)
@@ -10,10 +11,17 @@
 
 ## Selected Impact
 
-- 리버스 프록시에서 AI 분석 서버 병목을 측정하고, 2대 분산 구성의 효과가 없음을 실험으로 확인 (PickStranger)
-- Circuit Breaker로 AI 서버 중단 시에도 응답 유지, `100 VU` 부하에서 요청의 `62%`를 Fail-Open 처리 (PickStranger)
-- 파싱 예외율 `30~40%` → `0%`, 표본 `50건` 전건 일치 (Enlist-Korea)
-- 출결 도메인 재설계를 GitHub Issue로 문서화하고 프론트·기획과 합의 (동아리 CMS)
+- **​PickStranger | 보안 AI 서비스 성능 개선​**
+  - Go 리버스 프록시와 AI 분석 서버 연동을 구현하고, 반복 전처리 병목을 제거해 처리량 약 15건/초에서 60건/초로 개선
+  - 부하 시험에서 오류율 70.7%에서 0.1% 이하로 감소
+
+- **​PickStranger | AI 장애 대응 및 검증​**
+  - AI 서버 장애 시 응답을 유지하는 Fail-Open 동작을 구현하고, 모니터링으로 AI 판정이 생략된 요청 범위를 확인
+  - 과부하 시험에서 요청의 62%가 AI 판정 없이 통과하는 보안 트레이드오프를 확인
+
+- **​AI Manager | LLM 에이전트 신뢰성·비용 개선​**
+  - 도구 실행 결과를 다음 요청에 전달해 이전 작업을 부정하는 응답 문제를 개선
+  - 프롬프트 캐시 구조를 최적화해 두 번째 턴부터 도구 사용 턴당 추정 비용 약 80% 절감
 
 ## Projects
 
